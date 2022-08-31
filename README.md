@@ -10,7 +10,7 @@ npm install or npm i
 
 1. Create a `.env` file
 2. Add these lines to the `.env` file  
-   IG_USERNAME='YOUR_USERNAME'
+   IG_USERNAME='YOUR_USERNAME'<br>
    IG_PASSWORD='YOUR_PASSWORD'
 
 ## Usage
