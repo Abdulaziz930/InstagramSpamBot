@@ -1,6 +1,9 @@
 # InstagramSpamBot
 
 ## Installation
+```bash
+git clone https://github.com/Abdulaziz930/InstagramSpamBot.git
+```
 
 ```cpp
 npm install or npm i
