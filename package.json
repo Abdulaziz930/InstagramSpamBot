@@ -1,0 +1,17 @@
+{
+  "name": "instagram-spam-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "spam": "node index"
+  },
+  "keywords": [],
+  "author": "Abdulaziz",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.2",
+    "puppeteer": "^17.0.0"
+  }
+}
